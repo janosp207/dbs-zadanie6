@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'fiit-dbs-xjanosp2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_341415AA992D4009ACE49EC6E36BB901 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_310E533B153648CB997F458A0F8606FD }}
